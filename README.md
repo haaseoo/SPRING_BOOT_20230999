@@ -47,7 +47,7 @@
 ## * 6주차 수업 *
  - 게시판 글쓰기 수정, 삭제 완료
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/edfb1739-68c9-4566-8165-635f4e8b1898">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/248d4974-5b64-498e-b6a2-5718f866e3c0">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/96ca3e77-a683-4ec4-a289-c93b06ffc528">
 </p>
 
