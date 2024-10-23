@@ -46,17 +46,20 @@
 
 ## * 6주차 수업 *
  - 게시판 글쓰기 수정, 삭제 완료
-<p align="center">
+ - 오류처리
+  <p align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/248d4974-5b64-498e-b6a2-5718f866e3c0">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/868eb741-9399-4ed5-a76e-d199b2a4783b">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/96ca3e77-a683-4ec4-a289-c93b06ffc528">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/3f124f6f-c67c-4455-830a-567042d46226">
 </p>
+
 
 ####  ➜ 6주차 응용 문제 & 추가 구현 완료
  - 정수 아닌 문자열 매개변수 링크 에러 처리
    > @ExceptionHandler 메서드 
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/ee62e072-5931-4a7a-a331-b9f44df83907">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/b260c3b7-d4b3-46cb-9e7a-19f094979be7">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7cd1554a-fa98-421e-9bf8-4270bceceef0">
 </p>
 
 
